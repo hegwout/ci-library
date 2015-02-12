@@ -3,7 +3,7 @@ Codeigniter  libraries
 
 ## Table of Contents
 
-- codeigniter-restserver
+- codeigniter-restserver  https://github.com/jenssegers/codeigniter-authentication-library 
 - codeigniter-restclient
 - codeigniter-template-library
 - codeigniter-mongodb-library
